@@ -1,0 +1,16 @@
+body {
+    background-color: black
+}
+canvas {
+    display: block;
+    margin: 0 auto;
+}
+
+#newGame {
+    width: 100px;
+    height: 30px;
+    position: absolute;
+    z-index: 5;
+    border: none;
+    cursor: pointer;
+}
